@@ -34,7 +34,7 @@
 3. https://www.codechef.com/wiki/test-generation-plan
 4. https://jakevdp.github.io/PythonDataScienceHandbook/"
 
-## CHỦ ĐỀ THẢO LUẬN
+## [CHỦ ĐỀ THẢO LUẬN](https://docs.google.com/spreadsheets/d/1MgvUaBiZuOL80LCCZGUrQcW8oj0N5zWX6tE2p5i2FuY/edit#gid=1722643780)
 * **Chủ đề**: KIỂM TRA TÍNH ĐÚNG ĐẮN & HIỆU NĂNG CỦA CHƯƠNG TRÌNH BẰNG BỘ TEST
 * **Mục tiêu**: Thành thạo cách tạo bộ test (input/output) để kiểm tra tính đúng đắn và hiệu năng của chương trình
 * **Nội dung chi tiết**: Cách tạo bộ test, làm ví dụ với 3 bài toán đã được học trong các môn học trước; Kiểm thử tự động chương trình (Unit test, Black/White test); quiz; bài tập về nhà
