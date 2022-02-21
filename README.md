@@ -20,7 +20,7 @@
 * **Mã môn học:** CS112
 * **Mã lớp:** CS112.M22.KHCL
 * **Năm học:** HK2 (2021 - 2022)
-* **Giảng viên:** 
+* **Giảng viên:** Th.S Nguyễn Thanh Sơn - *sonnt@uit.edu.vn*
 
 ## GIỚI THIỆU NHÓM
 | STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
