@@ -12,6 +12,8 @@
 ## BẢNG MỤC LỤC
 * [Giới thiệu môn học](#giới-thiệu-môn-học)
 * [Giới thiệu nhóm](#giới-thiệu-nhóm)
+* [Tài liệu tham khảo](#tài-liệu-tham-khảo)
+* [Chủ đề thảo luận](#chủ-đề-thảo-luận)
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN - ALGORITHM ANALYSIS AND DESIGN
@@ -25,3 +27,14 @@
 | :---: | --- | --- | --- | --- | --- | --- |
 | 1 | Lê Huy Đạt | 18520569 | Nhóm trưởng | 18520569@gm.uit.edu.vn | [Makuss2303](https://github.com/Makuss2303) | [Lê Đạt](https://www.facebook.com/sib.makuss) |
 | 2 | Võ Hoáng Lộc | 20521553 | Thành viên | 20521553@gm.uit.edu.vn | [locvh1162](https://github.com/locvh1162) | [Lộc Võ](https://www.facebook.com/profile.php?id=100010054200465) |
+
+## TÀI LIỆU THAM KHẢO
+1. Anany Levitin, Introduction to the Design and Analysis of Algorithms, 3rd Edition, 2014
+2. https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
+3. https://www.codechef.com/wiki/test-generation-plan
+4. https://jakevdp.github.io/PythonDataScienceHandbook/"
+
+## CHỦ ĐỀ THẢO LUẬN
+* **Chủ đề**: KIỂM TRA TÍNH ĐÚNG ĐẮN & HIỆU NĂNG CỦA CHƯƠNG TRÌNH BẰNG BỘ TEST
+* **Mục tiêu**: Thành thạo cách tạo bộ test (input/output) để kiểm tra tính đúng đắn và hiệu năng của chương trình
+* **Nội dung chi tiết**: Cách tạo bộ test, làm ví dụ với 3 bài toán đã được học trong các môn học trước; Kiểm thử tự động chương trình (Unit test, Black/White test); quiz; bài tập về nhà
