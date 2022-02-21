@@ -23,5 +23,5 @@
 ## GIỚI THIỆU NHÓM
 | STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
 | :---: | --- | --- | --- | --- | --- | --- |
-| 1 | Lê Huy Đạt |  | Nhóm trưởng |  |  |  |
+| 1 | Lê Huy Đạt | 18520569 | Nhóm trưởng | 18520569@gm.uit.edu.vn | [Makuss2303](https://github.com/Makuss2303) |  |
 | 2 | Võ Hoáng Lộc | 20521553 | Thành viên | 20521553@gm.uit.edu.vn | [locvh1162](https://github.com/locvh1162) |  |
