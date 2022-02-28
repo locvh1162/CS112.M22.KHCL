@@ -1,2 +1,8 @@
+COMPUTATIONAL THINKING
 1. CT là gì?
+-
 2. Tại sao phải học CT?
+-
+3. Cách sử dụng CT để giải quyết vấn đề.
+- Tóm tắt vấn đề - abstraction
+- 
