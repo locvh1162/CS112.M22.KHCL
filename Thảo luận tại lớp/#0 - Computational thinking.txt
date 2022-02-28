@@ -1,9 +1,3 @@
-<p align="center">
-  <a style="border: none;">
-    <img src="https://steamacademy.edu.vn/wp-content/uploads/2018/12/ComputationalThinkingProductLogo.png" alt="CT">
-  </a>
-</p>
-
 
 COMPUTATIONAL THINKING
 
