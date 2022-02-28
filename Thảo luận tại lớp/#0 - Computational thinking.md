@@ -1,6 +1,6 @@
 <p align="center">
   <a style="border: none;">
-    <img src="https://steamacademy.edu.vn/wp-content/uploads/2018/12/ComputationalThinkingProductLogo.png" alt="CT">
+    <img src="https://steamacademy.edu.vn/wp-content/uploads/2018/12/ComputationalThinkingProductLogo.png" alt="CT" style="width:50%;height:50%;">
   </a>
 </p>
 
