@@ -7,7 +7,7 @@
 COMPUTATIONAL THINKING
 
 1. CT là gì?
-- Là cách suy nghĩ để giải quyết vấn đề mà dễ dàng tìm ra giải thuật cho máy tính giải quyết
+- Là cách suy nghĩ để giải quyết vấn đề mà dễ dàng chuyển giao cho máy tính giải quyết, hay là dễ dàng tìm ra giải thuật
 
 2. Tại sao phải học CT?
 - Tư duy máy tính ở đây cần được hiểu là nói về khả năng con người có thể làm, chứ không phải máy tính có thể làm, ta cần nó để mình có thể tư duy cách hiệu quả, có logic hơn
