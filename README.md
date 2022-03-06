@@ -23,10 +23,10 @@
 * **Giảng viên:** Th.S Nguyễn Thanh Sơn - *sonnt@uit.edu.vn*
 
 ## GIỚI THIỆU NHÓM
-| STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
-| :---: | --- | --- | --- | --- | --- | --- |
-| 1 | Lê Huy Đạt | 18520569 | Nhóm trưởng | 18520569@gm.uit.edu.vn | [Makuss2303](https://github.com/Makuss2303) | [Lê Đạt](https://www.facebook.com/sib.makuss) |
-| 2 | Võ Hoáng Lộc | 20521553 | Thành viên | 20521553@gm.uit.edu.vn | [locvh1162](https://github.com/locvh1162) | [Lộc Võ](https://www.facebook.com/profile.php?id=100010054200465) |
+| STT | Họ tên | MSSV | Vai trò | Email | Github |
+| :---: | --- | --- | --- | --- | --- |
+| 1 | Lê Huy Đạt | 18520569 | Nhóm trưởng | 18520569@gm.uit.edu.vn | [Makuss2303](https://github.com/Makuss2303) |
+| 2 | Võ Hoáng Lộc | 20521553 | Thành viên | 20521553@gm.uit.edu.vn | [locvh1162](https://github.com/locvh1162) |
 
 ## TÀI LIỆU THAM KHẢO
 1. Anany Levitin, Introduction to the Design and Analysis of Algorithms, 3rd Edition, 2014
