@@ -9,7 +9,7 @@ COMPUTATIONAL THINKING
 3. Cách sử dụng CT để giải quyết vấn đề.
 5 kĩ thuật: A - PR - D - AD - E
 - Abstraction - Tóm tắt vấn đề: lược bot dư thừa, giữ lại quan trọng (mô hình toán học, tính toán được)
-- Nhận diện mẫu: đọc xem vấn đề có quen hay không, quen thì lấy cách quen làm, chưa thì tiến hành chia nhỏ vấn đề
+- Pattern recognition - Nhận diện mẫu: đọc xem vấn đề có quen hay không, quen thì lấy cách quen làm, chưa thì tiến hành chia nhỏ vấn đề
 - Decomposition - Chia nhỏ vấn đề: giải quết các vấn đề con => tiếp tục tóm tắt, nhận diện, chia nhỏ vấn đề con
 - Algorithm design - TK thuật toán: Tổng hợp kq từ bài toán con cho bài toán lớn => có được thuật toán
 - Evaluation - Đánh giá thuật toán: đánh giá xem phù hợp với yêu cầu hay không
