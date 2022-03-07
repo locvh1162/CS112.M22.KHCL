@@ -18,7 +18,7 @@
 
 <p align="center">
   <a style="border: none;">
-    <img src="https://ichi.pro/assets/images/max/724/1*iQkFjNn02oogc2Yv27-pyQ.png" alt="CT" style="width:50%;height:50%;">
+    <img src="https://itzone.com.vn/wp-content/uploads/2020/06/96851ae4-1258-4f5e-97ac-2a6a1d23e6fc.png" alt="bigO" style="width:50%;height:50%;">
   </a>
 </p>
 
