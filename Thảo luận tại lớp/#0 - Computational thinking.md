@@ -13,6 +13,7 @@ COMPUTATIONAL THINKING
 - Decomposition - Chia nhỏ vấn đề: giải quết các vấn đề con => tiếp tục tóm tắt, nhận diện, chia nhỏ vấn đề con
 - Algorithm design - TK thuật toán: Tổng hợp kq từ bài toán con cho bài toán lớn => có được thuật toán
 - Evaluation - Đánh giá thuật toán: đánh giá xem phù hợp với yêu cầu hay không
+- Testing: kiểm tra tính đúng đắn của chương trình
 
 <p align="center">
   <a style="border: none;">
