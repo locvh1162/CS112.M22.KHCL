@@ -15,3 +15,6 @@
 - Cách tạo bộ test?
 - Show 2 ví dụ, giao mng làm 1 ví dụ
 - Unit test, Black/White test?
+
+## Tham khảo
+https://www.codechef.com/wiki/test-generation-plan
