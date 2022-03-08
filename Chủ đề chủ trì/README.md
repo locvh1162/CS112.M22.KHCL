@@ -13,7 +13,6 @@
 - Bộ test là gì?
 - Tại sao cần?
 - Cách tạo bộ test?
-- Show 2 ví dụ, giao mng làm 1 ví dụ
 - Unit test, Black/White test?
 
 ## Tham khảo
