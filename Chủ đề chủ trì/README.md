@@ -17,4 +17,4 @@
 - Unit test, Black/White test?
 
 ## Kịch bản
-https://docs.google.com/spreadsheets/d/1wkYg5qEGUMfQQUxSxUyE2xHt_BRy3p6iwM6wjxWSO_Q/edit#gid=0
+https://docs.google.com/spreadsheets/d/1lKcYqv_FjnpeNCe9fQTOF_aWRfFlRtRXnXLepUmlHeA/edit#gid=0
