@@ -22,4 +22,4 @@
 - Unit test, Black/White test?
 
 ## Kịch bản
-https://docs.google.com/spreadsheets/d/1lKcYqv_FjnpeNCe9fQTOF_aWRfFlRtRXnXLepUmlHeA/edit#gid=0
+https://docs.google.com/spreadsheets/d/1lKcYqv_FjnpeNCe9fQTOF_aWRfFlRtRXnXLepUmlHeA
