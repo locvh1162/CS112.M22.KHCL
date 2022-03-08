@@ -12,6 +12,7 @@
 - https://www.codechef.com/wiki/test-generation-plan
 - https://en.wikipedia.org/wiki/Unit_testing
 - https://en.wikipedia.org/wiki/Black-box_testing
+- https://en.wikipedia.org/wiki/White-box_testing
 
 ## Câu hỏi thảo luận
 - Tính đúng đắn va hiệu năng của CT?
