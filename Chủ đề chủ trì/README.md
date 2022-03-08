@@ -18,7 +18,7 @@
 - Tính đúng đắn va hiệu năng của CT?
 - Bộ test là gì?
 - Tại sao cần?
-- Cách tạo bộ test?
+- Cách tạo bộ test? (Mục tiêu quan trọng nhất)
 - Unit test, Black/White test?
 
 ## Kịch bản
