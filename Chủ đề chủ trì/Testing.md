@@ -45,7 +45,6 @@
     - Dễ test khi thay đổi code của chương trình.
     - Cách ly được những hàm bị lỗi, dễ xác định nguyên nhân và khắc phục, tiết kiệm chi phí và thời gian.
     - Phát hiện được những hàm chạy chậm, không hiệu quả thông qua thời gian chạy của unit test.
-- Có thể thấy sử dụng Unit Test có lợi hơn nhiều so với Integration Test, và Unit Test cũng được Python hổ trợ, nên ta sẽ bàn sâu thêm về nó.
     
 ## Unit Test với Python
 
