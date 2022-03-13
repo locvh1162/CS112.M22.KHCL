@@ -50,21 +50,29 @@
 ## Unit Test với Python
 
 - Lấy ví dụ với hàm sum(), được xây dựng sẵn trong Python dùng để tính tổng các số.
+
 - Để viết Unit test cho hàm sum(), ta sẽ kiểm tra output của sum() so với output cho trước, ở đây là 6.
+
 ```python
 assert sum([1, 2, 3]) == 6, "Should be 6"
 ```
+
 - Thực thi đoạn code trên sẽ không cho ra kết quả gì, vì 1 + 2 + 3 đã đúng bằng 6.
+
 - Nếu kết quả từ sum() không chính xác, thì test sẽ fail với một AssertionError và sẽ hiển thị "Should be 6" khi thực thi:
+
 ```python
 assert sum([1, 1, 1]) == 6, "Should be 6"
 ```
+
 - Kết quả thực thi:
-```shell
+
+```
 Should be 6
 ```
 
 - Ta đưa cả 2 test case vào 1 file test.py:
+
 ```python
 def test_sum():
     assert sum([1, 2, 3]) == 6, "Should be 6"
@@ -77,8 +85,10 @@ if __name__ == "__main__":
     test_sum_2()
     print("Everything passed")
 ```
+
 - Kết quả thực thi:
-```shell
+
+```
 Should be 6
 Stack trace:
  >  File "test.py", line 5, in test_sum_2
@@ -92,8 +102,8 @@ Stack trace:
 ### Module unittest
 
 - **unittest** có 1 số yêu cầu quan trọng để viết và thực thi test:
-    1. Các test được cần đặt trong class như các phương thức.
-    2. Sử dụng các phương thức assertion đặc biệt của lớp `unittest.TestCase` thay cho lệnh assert ở trên.
+    - Các test được cần đặt trong class như các phương thức.
+    - Sử dụng các phương thức assertion đặc biệt của lớp `unittest.TestCase` thay cho lệnh assert ở trên.
 
 > Các bước viết test case bằng unittest:
 >   1. `import unittest` từ standard library
@@ -103,6 +113,7 @@ Stack trace:
 >   5. Thay command-line entry point để gọi `unittest.main()`
 
 - Bằng các bước vừa nêu, ta thay đổi file test.py bằng test2.py:
+
 ```python
 import unittest
 
@@ -117,8 +128,10 @@ class TestSum(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 ```
+
 - Thực thi chương trình ta sẽ thấy 1 test thành công (dấu .), 1 test thất bại (3 != 6 : Should be 6).
-```shell
+
+```
 .3 != 6 : Should be 6
 Stack trace:
  >  File "test2.py", line 9, in test_sum_2 (Current frame)
@@ -142,7 +155,7 @@ Stack trace:
 
 ### White Box Testing
 
-![whitebox](https://securitybox.vn/wp-content/uploads/2021/06/quy-trinh-danh-gia-website-2.png)
+![whitebox](https://ecomputerconcepts.com/wp-content/uploads/2021/01/White-box-testing.jpg)
 
 - Là phương pháp test yêu cầu phải biết cấu trúc bên trong của chương trình.
 - Yêu cầu phải viết test case đầy đủ các nhánh trong code; khi test, sẽ set điều kiện và data để chạy vào đủ tất cả các nhánh trong giải thuật, đảm bảo thực hiện đầy đủ.
@@ -153,9 +166,9 @@ Stack trace:
 
 - Trước khi tạo 1 bộ test, bạn cần biết mình test cái gì, nên xài unit test hay integration test.
 - Sau đó thực hiện 3 bước cở bản:
-    1. Tạo input.
-    2. Chạy code, lưu lại output của code.
-    3. So sánh out put với kết quả mong muốn.
+>    1. Tạo input.
+>    2. Chạy code, lưu lại output của code.
+>    3. So sánh out put với kết quả mong muốn.
 
 
 
