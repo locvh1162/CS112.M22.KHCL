@@ -98,7 +98,7 @@ Stack trace:
 
 - `assert` là cách đơn giản nhất để viết 1 test case. Nhưng cách thông dụng nhất thì là sử dụng module **unittest** có sẵn trong standard library.
 
-### Module unittest
+## Module unittest
 
 - **unittest** có 1 số yêu cầu quan trọng để viết và thực thi test:
     - Các test được cần đặt trong class như các phương thức.
@@ -139,7 +139,7 @@ Stack trace:
  >    unittest.main()
 ```
 
-## Các phương thức assertion của module unittest
+### Các phương thức assertion của module unittest
 
 |Phương thức|Tương đương với|
 |---|---|
