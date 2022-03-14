@@ -20,7 +20,7 @@ class TestPalindrome(TestExercise):
                  ('Python', False),
                  ('', False),
                  ('P', False),
-                 ('Able was I ere I saw Elba', True)]
+                 ('The Blue Sky', False)]
         self._test_all(unittest_2.check_palindrome, cases)
 
 
