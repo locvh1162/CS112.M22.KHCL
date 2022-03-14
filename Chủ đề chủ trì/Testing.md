@@ -67,7 +67,9 @@ assert sum([1, 1, 1]) == 6, "Should be 6"
 - Kết quả thực thi:
 
 ```
-Should be 6
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AssertionError: Should be 6
 ```
 
 - Ta đưa cả 2 test case vào 1 file `test.py`:
@@ -88,12 +90,12 @@ if __name__ == "__main__":
 - Kết quả thực thi:
 
 ```
-Should be 6
-Stack trace:
- >  File "test.py", line 5, in test_sum_2
- >    assert sum([1, 1, 1]) == 6, "Should be 6"
- >  File "test.py", line 9, in <module> (Current frame)
- >    test_sum_2()
+Traceback (most recent call last):
+  File "test.py", line 9, in <module>
+    test_sum_2()
+  File "test.py", line 5, in test_sum_2
+    assert sum([1, 1, 1]) == 6, "Should be 6"
+AssertionError: Should be 6
 ```
 
 - `assert` là cách đơn giản nhất để viết 1 test case. Nhưng cách thông dụng nhất thì là sử dụng module **unittest** có sẵn trong standard library.
@@ -128,15 +130,22 @@ if __name__ == '__main__':
     unittest.main()
 ```
 
-- Thực thi chương trình ta sẽ thấy 1 test thành công (dấu .), 1 test thất bại (3 != 6 : Should be 6).
+- Thực thi chương trình ta sẽ thấy 1 test thành công (kí hiệu dấu .), 1 test thất bại (kí hiệu chữ F).
 
 ```
-.3 != 6 : Should be 6
-Stack trace:
- >  File "test2.py", line 9, in test_sum_2 (Current frame)
- >    self.assertEqual(sum([1, 1, 1]), 6, "Should be 6")
- >  File "test2.py", line 12, in <module>
- >    unittest.main()
+.F
+======================================================================
+FAIL: test_sum_2 (__main__.TestSum)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "test2.py", line 9, in test_sum_2
+    self.assertEqual(sum([1, 1, 1]), 6, "Should be 6")
+AssertionError: 3 != 6 : Should be 6
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+FAILED (failures=1)
 ```
 
 ### Các phương thức assertion của module unittest
