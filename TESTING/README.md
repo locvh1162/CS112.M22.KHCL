@@ -186,7 +186,7 @@ FAILED (failures=1)
 
 ## Kết luận: Cách tạo 1 bộ test
 
-- Trước khi tạo 1 bộ test, bạn cần biết mình test cái gì, nên xài unit test hay integration test.
+- Trước khi tạo 1 bộ test, bạn cần biết mình test cái gì.
 - Sau đó thực hiện 3 bước cở bản:
 >    1. Tạo input.
 >    2. Chạy code, lưu lại output của code.
